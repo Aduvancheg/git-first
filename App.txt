@@ -1,2 +1,4 @@
 "Appointment_Start_Time__c" : "Today"
 "Appointment_End_Time__c" : "Tomorrow"
+{B[patientFirstName]}
+{B[patientLastName]}
