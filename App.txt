@@ -4,3 +4,6 @@
 {B[patientLastName]}
 Five line
 Six line
+
+Just test 1 Checkout
+Just test 2 Checkout
